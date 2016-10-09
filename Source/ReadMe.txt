@@ -1,0 +1,1 @@
+The code does not reflect the abilities of ww.lt-portfolio.website. The code was written during the transition from first undergraduate year to second where only basic C programming was covered - No understanding of Java or Object-Oriented Design by this point.
